@@ -1,0 +1,50 @@
+button {
+    background-color:brown;
+    color:white;
+    padding: 13px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+  }
+  
+  button:hover {
+    opacity:0.9;
+  
+  }
+  
+  
+  .cancelbtn {
+    padding: 13px 20px;
+    background-color:antiquewhite
+    
+    
+  }
+  
+  
+  .cancelbtn, .signupbtn {
+    float: left;
+    width: 50%;
+    text-decoration: none;
+  }
+  
+  
+  .container {
+    padding: 20px;
+    width:800px;
+    height:100%;
+  }
+  
+  .child:after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
+  
+  
+  
+  
+  </style>
+  
